@@ -1,4 +1,4 @@
-#InputVragen
+#InternetVerbindingSelectie
 connectionType = input("Welke verbinding wilt U gebruiken [4G, 5G, Wifi open]: ")
 
 if connectionType == "4G":
